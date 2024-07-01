@@ -28,5 +28,5 @@ Dieses Projekt ist unter der MIT Lizenz verfügbar. Weitere Informationen finden
 
 ## Autor
 
-Entwickelt von [Dein Name](https://github.com/dein-username).
 
+Entwickelt von JSLemke https://github.com/JSLemke
